@@ -12,31 +12,33 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Operating Theatre Efficiency",
+    "Statistics",
+    "R Language",
+    "Physiology",
+    "Pharmacology",
+    "Arduino's",
+    "Pi's"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "FANZCA"
+  institution = "Australian and New Zealand College of Anaesthetists (ANZCA)"
+  year = 2010
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MRCP"
+  institution = "Royal College of Physicians"
+  year = 2001
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MBBS"
+  institution = "University of Sydney"
+  year = 1996
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hamish Meares is an Anaesthetic doctor (Anaesthesiologist for our American friends). He is based in [Newcastle NSW, Australia](https://en.wikipedia.org/wiki/Newcastle,_New_South_Wales). He works in both the public and private systems, and maintains a keen interest in teaching and research. 
