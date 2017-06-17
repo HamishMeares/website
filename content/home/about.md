@@ -17,8 +17,8 @@ weight = 1
     "R Language",
     "Physiology",
     "Pharmacology",
-    "Arduino's",
-    "Pi's"
+    "Arduinos",
+    "Raspberry Pi's"
   ]
 
 # List your qualifications (such as academic degrees).
